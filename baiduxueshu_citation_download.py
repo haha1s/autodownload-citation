@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+#根据文献题目从百度学术下载格式化的引文
 # usage:  python path/to/bdduxtuu.python  path/to/yourinputfile
 import os
 from selenium import webdriver
